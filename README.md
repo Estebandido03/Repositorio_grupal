@@ -1,4 +1,4 @@
-# Trabajo_Grupal-2
+Proyecto grupal
 Trabajo grupal con:
 Orlando Rayo Silvano,
 Andy Rincon Diaz,
